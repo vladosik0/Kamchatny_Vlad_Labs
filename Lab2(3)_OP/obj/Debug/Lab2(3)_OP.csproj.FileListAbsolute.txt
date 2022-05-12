@@ -1,0 +1,7 @@
+D:\VisualStudio Projects\Lab2(3)_OP\obj\Debug\Lab2(3)_OP.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\Lab2(3)_OP\obj\Debug\Lab2(3)_OP.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Lab2(3)_OP\bin\Debug\Lab2(3)_OP.exe.config
+D:\VisualStudio Projects\Lab2(3)_OP\bin\Debug\Lab2(3)_OP.exe
+D:\VisualStudio Projects\Lab2(3)_OP\bin\Debug\Lab2(3)_OP.pdb
+D:\VisualStudio Projects\Lab2(3)_OP\obj\Debug\Lab2(3)_OP.exe
+D:\VisualStudio Projects\Lab2(3)_OP\obj\Debug\Lab2(3)_OP.pdb

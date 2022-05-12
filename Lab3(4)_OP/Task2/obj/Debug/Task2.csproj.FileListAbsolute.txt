@@ -1,0 +1,10 @@
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\bin\Debug\Task2.exe.config
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\bin\Debug\Task2.exe
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\bin\Debug\Task2.pdb
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\obj\Debug\Task2.exe
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\obj\Debug\Task2.pdb
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio Projects\Lab3(4)_OP\Task2\obj\Debug\Task2.csproj.CopyComplete

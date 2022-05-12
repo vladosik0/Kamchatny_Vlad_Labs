@@ -1,0 +1,10 @@
+D:\VisualStudio Projects\Lab1(2)_OP\bin\Debug\Lab1(2)_OP.exe.config
+D:\VisualStudio Projects\Lab1(2)_OP\bin\Debug\Lab1(2)_OP.exe
+D:\VisualStudio Projects\Lab1(2)_OP\bin\Debug\Lab1(2)_OP.pdb
+D:\VisualStudio Projects\Lab1(2)_OP\obj\Debug\Lab1(2)_OP.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\Lab1(2)_OP\obj\Debug\Lab1(2)_OP.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Lab1(2)_OP\obj\Debug\Lab1(2)_OP.exe
+D:\VisualStudio Projects\Lab1(2)_OP\obj\Debug\Lab1(2)_OP.pdb
+D:\VisualStudio Projects\Lab1(2)_OP\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio Projects\Lab1(2)_OP\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudio Projects\Lab1(2)_OP\obj\Debug\Lab1(2)_OP.csproj.CopyComplete
